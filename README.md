@@ -1,5 +1,5 @@
 # NW  Studio Dynamic Team Page
-This is NW Design Studio Team Page. 
+This is NW Design Studio Team Page.  I create a team bio page based on my real life friend.
 ## Prerequisites
 All you need is use computer browser with an Internet connection.
 
